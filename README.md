@@ -24,6 +24,8 @@ Si parte all'alba con una sessione di confronto: i partecipanti sono motivati e 
 
 Si continua con una sessione introduttiva in stile tutorial tenuta dal grandissimo Carlo, dove si affrontano le basi del linguaggio con qualche esercizio cretino dei 99 esercizi di Haskell [https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems]
 
+Dopodichè si continua con un momento `FP-Sborone`, una implementazione in una riga tail recursive della serie infinita di Fibonacci che avrebbe commosso anche il più esperto dei code golfer.
+
 In breve tempo la discussione si evolve su funtori, funtori applicativi e monadi. Sono argomenti che interessano, e soprattutto non spaventano. C'è anche il tempo per provare a dare tre spiegazioni differenti dei funtori applicativi.
 
 Massimo ci mostra infina come ciliegina della sessione teorica una sua implementazione di una Monade che ha usato in un suo programma per una sua gestione dell'errore ad hoc. Anche qui ci sono spunti interessanti su come migliorare il design.
