@@ -4,7 +4,7 @@
 
 - Francesco: un abile conoscitore del linguaggio e della comunità, e probabilmente l'unico in Italia che lo usa veramente.
 - Carlo: il nostro mentore, la matematica è il suo pane, e sa calcolare a memoria il numero di implementazioni possibili di una funzione dato un tipo.
-- Vitalij: il nostro caro leader, sperduto chissàdove, ma sempre nei nostri cuori
+- Vitalij: il nostro caro leader, sperduto chissà dove, ma sempre nei nostri cuori
 - Luca 1: colui che ha trovato la sala
 - Massimo: super appassionato di Haskell, ha in programma di usarci per programmare un esercito di robot per consquistare il mondo. 
 - Luca 2: L'azienda per cui lavora ha intenzione di passare totalmente alla programmazione funzionale, il solo pensiero di trecento programmatori Haskell ci fa sognare un mondo migliore.
@@ -34,7 +34,7 @@ Massimo ci mostra infina come ciliegina della sessione teorica una sua implement
 
 ## Pomeriggio
 
-Mentre Carlo e Massimo cercavano di far compilare la libreria che avrebbe generato il client per i robot, si formano tre coppie per risolvere un esercizio molto semplice preso da github.
+Mentre Carlo e Massimo cercavano di far compilare la libreria che avrebbe generato il client per i robot, si formano tre coppie per risolvere un esercizio molto semplice preso da github [https://github.com/Gianfrancoalongi/incremental_katas].
 Questo ci permette di rinfrescare sintassi e concetti, devo dire che infine le implementazioni sono state più diversificate di quanto credessi.
 
 ## Conclusioni
