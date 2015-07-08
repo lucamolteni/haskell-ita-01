@@ -1,5 +1,5 @@
--- Step 1: ("Luca Molteni", "Stefano Baghino")
--- Step 2: ("Francesco Ariis", "Stefano Baghino")
+-- Step 1: ("Luca", "Stefano")
+-- Step 2: ("Francesco", "Stefano")
 
 module Main where
 
