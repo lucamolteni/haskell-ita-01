@@ -10,7 +10,7 @@
 - Luca 2: L'azienda per cui lavora ha intenzione di passare totalmente alla programmazione funzionale, il solo pensiero di trecento programmatori Haskell ci fa sognare un mondo migliore.
 - Ruggero: A.K.A. il modesto - sostiene di conoscere il linguaggio a malapena, ma in realtà conosce a memoria LYAHFGG. Anzi, lo ha scritto lui.
 - Matteo: la sua conoscenza e la sua passione ci permettono discussioni di eccellenza. 
-- Stefano: la sua presenza rincuora ogni meeting che si rispetti, anche se abbiamo fatto finta di non sapere che è una spia infiltrata di Odersky.
+- [Stefano Baghino](https://github.com/stefanobaghino): la sua presenza rincuora ogni meeting che si rispetti, anche se abbiamo fatto finta di non sapere che è una spia infiltrata ~~di Odersky~~ del creatore di Hascalator.
 - Lo spirito di Chris Done: 'Oh, ma qualcuno mi ha detto che viene'.
 - Gianluca di Mikamai: accogliente come un Hobbit, preparato come Alan Kay.
 
